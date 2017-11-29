@@ -1,0 +1,12 @@
+This project is solely for creating compiled modules
+
+1. MyPicker Module
+   This module is for Month Year picker dialog that's why named as MyPicker (M-month and y-year)
+   You can have month-year picker together and separately.
+
+     * For using MonthYearPicker
+        ::> new MaterialMonthYearPicker(...)
+     * For using Month Picker
+        ::> new MaterialMonthPicker(...)
+     * For using Year Picker
+        ::> new MaterialYearPicker(...)

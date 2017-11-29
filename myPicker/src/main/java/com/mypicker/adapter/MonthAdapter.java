@@ -1,4 +1,4 @@
-package com.mypicker.dialogs.adapter;
+package com.mypicker.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -8,7 +8,8 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.mypicker.R;
-import com.mypicker.dialogs.helper.MyHelperFunction;
+import com.mypicker.helper.MyHelperFunction;
+
 
 import java.text.DateFormatSymbols;
 import java.util.ArrayList;

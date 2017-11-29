@@ -14,7 +14,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.mypicker.R;
-import com.mypicker.dialogs.adapter.MonthAdapter;
+import com.mypicker.adapter.MonthAdapter;
 
 
 /**

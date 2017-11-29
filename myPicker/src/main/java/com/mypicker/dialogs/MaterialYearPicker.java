@@ -14,7 +14,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.mypicker.R;
-import com.mypicker.dialogs.adapter.YearAdapter;
+import com.mypicker.adapter.YearAdapter;
 
 /**
  * Created by anish on 24-11-2017.
